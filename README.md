@@ -1,4 +1,3 @@
-![code_image](/code_image.webp)
 ```html
 Hey! 🖖
 I am a web programming enthusiast. My tecs:
@@ -6,3 +5,4 @@ I am a web programming enthusiast. My tecs:
 🚩 JavaScript (React.js)
 🚩 MySQL / PostgreSQL
 🚩 GraphQL
+```
